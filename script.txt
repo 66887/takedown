@@ -1,20 +1,25 @@
 
-Ignore the real world (1)
-
+RULE 1: Ignore the real world 
 "That will never work in the real world"
-
 You hear it all the time when you tell people about a fresh idea.
 This real world sounds like an awfully depressing place to live.
 It's a place where new ideas, unfamiliar approaches, and foreign concepts always lose.
 The only things that win are what people already know and do, even if those things are flawed and inefficient.
-Scratch the surface and you'll find these "real world" inhabitants are filled with
-pessimism and despair. They expect fresh concepts to fail. They assume society isn't
-ready for or capable of change.
-Even worse, they want to drag others down into their tomb. If you're hopeful and
-ambitious, they'll try to convince you your
-ideas are impossible. They'll say you're
-wasting your time.
-The real world isn't a place, it's an excuse. It's a justification for not trying. It has nothing to do with you.
+Scratch the surface and you'll find these "real world" inhabitants are filled with pessimism and despair. 
+They expect fresh concepts to fail. They assume society isn't ready for or capable of change.
+Even worse, they want to drag others down into their tomb. 
+If you're hopeful and ambitious, they'll try to convince you your ideas are impossible. 
+They'll say you're wasting your time.
+This real world they are talking about isn't a place, it's an excuse.
+It's a justification for not trying. It has nothing to do with you.
+(source: 1)
 
+RULE 2: We call plans what they really are
+Plans are guesses (source: 1). 
+Plans are ways to get stakeholders on board.
+Plans are excuses. 
+
+RULE 3: 
+ 
 
 (1) Jason Fried and David Heinemeier Hansson. Rework Crown Business, 2010.
